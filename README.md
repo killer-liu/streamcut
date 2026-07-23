@@ -28,19 +28,19 @@
 
 集中管理直播间，查看开播状态、录制状态、自动录制和常用操作。
 
-![剪播宝直播监控](./StreamCutWebsite/assets/live-monitoring-redacted.webp)
+![剪播宝直播监控](./assets/live-monitoring-redacted.webp)
 
 ### 录制记录
 
 管理录制视频、筛选记录、格式转换、拆分和加字幕。
 
-![剪播宝录制记录](./StreamCutWebsite/assets/recordings-redacted.webp)
+![剪播宝录制记录](./assets/recordings-redacted.webp)
 
 ### AI 成片
 
 选择录制素材或本地视频，输入剪辑要求后生成任务并查看进度。
 
-![剪播宝 AI 成片](./StreamCutWebsite/assets/ai-editing-redacted.webp)
+![剪播宝 AI 成片](./assets/ai-editing-redacted.webp)
 
 ## 适用场景
 
@@ -73,6 +73,8 @@
 - Windows
 - 抖音直播录制
 - 快手直播录制
+
+当前版本重点支持抖音和快手直播录制，后续会根据用户需求持续增加更多直播平台。
 
 ## 常见问题
 
